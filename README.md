@@ -1,25 +1,34 @@
 # data-science-portfolio
- Containing my personal portfolio of data science projects for academic, self learning, and hobby purposes..
 
+Containing my personal portfolio of data science projects for academic, self learning, and hobby purposes..
 
 ## Contents
 
-- ### Data Science Projects
+- [My academic Projects](https://github.com/vanity-lost/academic_projects)
 
-    - [Kaggle Competitions/Tasks](https://github.com/vanity-lost/Kaggle-Projects)
+  - [CSDS 395: Senior Project](https://github.com/vanity-lost/academic_projects/tree/main/CSDS%20395%20Projects)
+  - [CSDS 440: Machine Learning](https://github.com/vanity-lost/academic_projects/tree/main/CSDS%20395%20Projects)
+  - [CSDS 491: Probabilistic Graphical Models](https://github.com/vanity-lost/academic_projects/tree/main/CSDS%20491)
 
-        - [Regression: House Price Prediction](https://github.com/vanity-lost/Kaggle-Projects/tree/main/House%20Price%20Prediction)
-        
-        - [Classification: Titanic Prediction](https://github.com/vanity-lost/Kaggle-Projects/tree/main/Titanic%20Prediction)
-        
-        - [Time Series Forecasting: Store Item Demand Forecasting Challenge](https://github.com/vanity-lost/Kaggle-Projects/tree/main/Store%20Item%20Demand%20Forecasting%20Challenge)
+- [Kaggle Competitions/Tasks](https://github.com/vanity-lost/Kaggle-Projects)
 
-    - [My ML Projects](https://github.com/vanity-lost/ml_projects)
+  - Classification:
+    - [Titanic Prediction](https://github.com/vanity-lost/Kaggle-Projects/tree/main/Titanic%20Prediction)
+    - [Pima Indian Diabetes Prediction](https://github.com/vanity-lost/Kaggle-Projects/tree/main/Pima%20Indian%20Diabetes%20Prediction)
+  - Regression:
+    - [House Price Prediction](https://github.com/vanity-lost/Kaggle-Projects/tree/main/House%20Price%20Prediction)
+  - Time Series Forecasting:
+    - [Store Item Demand Forecasting Challenge](https://github.com/vanity-lost/Kaggle-Projects/tree/main/Store%20Item%20Demand%20Forecasting%20Challenge)
+  - Clustering:
+    - ...
+
+- [My ML Projects](https://github.com/vanity-lost/ml_projects)
+  - ...
 
 <!-- - ### Machine Learning Algorithms
 
     - Naive Bayes
-    
+
     - Logistic Regression
 
     - K Nearest Neighbours -->
