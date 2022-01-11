@@ -9,6 +9,8 @@ Containing my personal portfolio of data science projects for academic, self lea
   - [CSDS 395: Senior Project](https://github.com/vanity-lost/academic_projects/tree/main/CSDS%20395%20Projects)
   - [CSDS 440: Machine Learning](https://github.com/vanity-lost/academic_projects/tree/main/CSDS%20395%20Projects)
   - [CSDS 491: Probabilistic Graphical Models](https://github.com/vanity-lost/academic_projects/tree/main/CSDS%20491)
+  - [CSDS 491: Probabilistic Graphical Models](https://github.com/vanity-lost/academic_projects/tree/main/CSDS%20491)
+  - [CSDS 491: Probabilistic Graphical Models](https://github.com/vanity-lost/academic_projects/tree/main/CSDS%20491)
 
 - [Kaggle Competitions/Tasks](https://github.com/vanity-lost/Kaggle-Projects)
 
