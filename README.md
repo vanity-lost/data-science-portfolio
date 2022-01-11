@@ -8,6 +8,8 @@ Containing my personal portfolio of data science projects for academic, self lea
 
 _Organized by Courses_
 
+- Only contains part of my academic projects (Complete List: https://github.com/vanity-lost/academic_projects)
+
 <table>
     <thead>
         <tr>
@@ -26,34 +28,6 @@ _Organized by Courses_
             <td><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20234%20Projects">Structured and Unstructured Data</a></td>
             <td>Amazon Co-purchasing Analysis</td>
             <td><em>Python, Pandas, Recommendation System, Unstructured Data, Logistic Regression</em></td>
-        </tr>
-        <tr>
-            <td rowspan=2><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20290%20Projects">Intro to Computer Game Design and Implementation</a></td>
-            <td>Text Adventure: Phantom Wanderer</td>
-            <td><em>Game Design, Text Adventure</em></td>
-        </tr>
-        <tr>
-            <td>2D Level Game: YU&MI</td>
-            <td><em>Unity 2D, C#, Game Design, 2.5D Game Development</em></td>
-        </tr>
-        <tr>
-            <td rowspan=2><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20325%20Projects">Computer Network I</a></td>
-            <td>Conference Client and Server</td>
-            <td><em>C, Computer Network, TCP</em></td>
-        </tr>
-        <tr>
-            <td>HTTP Proxy</td>
-            <td><em>C, Computer Network</em></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20341%20Projects">Intro to Database System</a></td>
-            <td>Snack Tracker</td>
-            <td><em>Java, PostgreSQL, Linux</em></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20390%20Projects">Advanced Game Development Project</a></td>
-            <td>Eurydice</td>
-            <td><em>C#, Unity 3D, Game Design</em></td>
         </tr>
         <tr>
             <td><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20393%20Projects">Software Engineering</a></td>
