@@ -129,17 +129,43 @@ _Organized by Courses_
     </tbody>
 </table>
 
-### [Kaggle Competitions/Tasks](https://github.com/vanity-lost/Kaggle-Projects)
+### [Kaggle Projects](https://github.com/vanity-lost/Kaggle-Projects)
 
-- Classification:
-  - [Titanic Prediction](https://github.com/vanity-lost/Kaggle-Projects/tree/main/Titanic%20Prediction)
-  - [Pima Indian Diabetes Prediction](https://github.com/vanity-lost/Kaggle-Projects/tree/main/Pima%20Indian%20Diabetes%20Prediction)
-- Regression:
-  - [House Price Prediction](https://github.com/vanity-lost/Kaggle-Projects/tree/main/House%20Price%20Prediction)
-- Time Series Forecasting:
-  - [Store Item Demand Forecasting Challenge](https://github.com/vanity-lost/Kaggle-Projects/tree/main/Store%20Item%20Demand%20Forecasting%20Challenge)
-- Clustering:
-  - ...
+<table>
+    <thead>
+        <tr>
+            <th>Fields</th>
+            <th>Project Name</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=2><a href="...">Classification</a></td>
+            <td><a href="https://github.com/vanity-lost/Kaggle-Projects/tree/main/Titanic%20Prediction">Titanic Prediction</a></td>
+            <td>...</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/vanity-lost/Kaggle-Projects/tree/main/Pima%20Indian%20Diabetes%20Prediction">Pima Indian Diabetes Prediction</a></td>
+            <td>...</td>
+        </tr>
+        <tr>
+            <td rowspan=1><a href="...">Regression</a></td>
+            <td><a href="https://github.com/vanity-lost/Kaggle-Projects/tree/main/House%20Price%20Prediction">House Price Prediction</a></td>
+            <td>...</td>
+        </tr>
+        <tr>
+            <td rowspan=1><a href="...">Time Series Forecasting</a></td>
+            <td><a href="https://github.com/vanity-lost/Kaggle-Projects/tree/main/Store%20Item%20Demand%20Forecasting%20Challenge">Store Item Demand Forecasting Challenge</a></td>
+            <td>...</td>
+        </tr>
+        <tr>
+            <td rowspan=1><a href="...">Clustering</a></td>
+            <td><a href="...">...</a></td>
+            <td>...</td>
+        </tr>
+    </tbody>
+</table>
 
 ### [My ML Projects](https://github.com/vanity-lost/ml_projects)
 
