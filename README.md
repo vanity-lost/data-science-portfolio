@@ -1,8 +1,53 @@
 # data-science-portfolio
 
-Containing my personal portfolio of data science projects for academic, self learning, and hobby purposes..
+_Containing my personal portfolio of data science projects for academic or self learning purposes._
 
 ## Projects
+
+### [My Data Science Projects](https://github.com/vanity-lost/Data-Science)
+
+<table>
+    <thead>
+        <tr>
+            <th>Fields</th>
+            <th>Project Name</th>
+            <th>Keywords</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=5><a href="https://github.com/vanity-lost/Data-Science/tree/main/Algorithms%20Study">Algorithms Study</a></td>
+            <td><a href="https://github.com/vanity-lost/Data-Science/tree/main/Algorithms%20Study/Anomaly%20Detection">Anomaly Detection</a></td>
+            <td>PIsolation Forest, Local Outlier Factor, One-Class SVM</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/vanity-lost/Data-Science/tree/main/Algorithms%20Study/Decision%20Tree%20and%20its%20variants">Decision Tree and its variants</a></td>
+            <td>XGBoost, LightGBM, CatBoost</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/vanity-lost/Data-Science/tree/main/Algorithms%20Study/Dimension%20Reduction">Dimension Reduction</a></td>
+            <td>PCA, Kernal PCA, Sparse PCA, t-SNE</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/vanity-lost/Data-Science/tree/main/Algorithms%20Study/Frequent%20Itemset%20Mining">Frequent Itemset Mining</a></td>
+            <td>Apriori, FP-Growth, Eclat</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/vanity-lost/Data-Science/tree/main/Algorithms%20Study/Link%20Analysis">Link Analysis</a></td>
+            <td>PageRank</td>
+        </tr>
+        <tr>
+            <td rowspan=1>Data Analysis</td>
+            <td><a href="...">...</a></td>
+            <td>...</td>
+        </tr>
+        <tr>
+            <td rowspan=1><a href="https://github.com/vanity-lost/Data-Science/tree/main/Data%20Visualization">Data Visualization</a></td>
+            <td><a href="...">...</a></td>
+            <td>...</td>
+        </tr>
+    </tbody>
+</table>
 
 ### [My academic Projects](https://github.com/vanity-lost/academic_projects)
 
@@ -22,27 +67,17 @@ _Organized by Courses_
         <tr>
             <td><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20133%20Projects">Intro Data Science Engineering Major</a></td>
             <td>FIFA Player Value Prediction</td>
-            <td><em>Python, sklearn, Exploratory Data Analysis, Gradient Boosting Regression</em></td>
+            <td><em>Python, Sklearn, Exploratory Data Analysis, Gradient Boosting Regression</em></td>
         </tr>
         <tr>
             <td><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20234%20Projects">Structured and Unstructured Data</a></td>
             <td>Amazon Co-purchasing Analysis</td>
-            <td><em>Python, Pandas, Recommendation System, Unstructured Data, Logistic Regression</em></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20393%20Projects">Software Engineering</a></td>
-            <td>Bill Splitting System</td>
-            <td><em>Java, SpringBoot, Software Engineering</em></td>
+            <td><em>Python, Recommendation System, Unstructured Data, Logistic Regression</em></td>
         </tr>
         <tr>
             <td><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20395%20Projects">Senior Project in Computer Science</a></td>
-            <td>Argus (Text2Mindmap part)</td>
-            <td><em>Python, Extractive Text Summarization, TextRank, RoBERTa, Yake!</em></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20433%20Projects">Database Systems</a></td>
-            <td>[Survey Paper] Distributed Classification based on ADMM</td>
-            <td><em>ADMM, A2DM2, ASVRG-ADMM, CS-GADMM, D-A2DM2, SDCA-ADMM, SVRG-ADMM</em></td>
+            <td>Meeting Assistant Software: Argus (Text2Mindmap part)</td>
+            <td><em>Python, Extractive Text Summarization, TextRank, RoBERTa, YAKE!</em></td>
         </tr>
         <tr>
             <td rowspan=4><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20440">Machine Learning</a></td>
@@ -85,7 +120,7 @@ _Organized by Courses_
         <tr>
             <td rowspan=2><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/DESN%20210%20Projects">Intro to Programming for Business Applications</a></td>
             <td>Style Transfer</td>
-            <td><em>Python, Tensorflow, Deep Learning, Style Transfer</em></td>
+            <td><em>Python, Tensorflow, Style Transfer</em></td>
         </tr>
         <tr>
             <td>Cryptocurrency Prices Forecasting using U.S. stock, COVID-19, and crypto market</td>
