@@ -2,6 +2,8 @@
 
 _Containing my personal portfolio of data science projects for academic or self learning purposes._
 
+_Updated by 10/22/2022_
+
 ## Projects
 
 ### [My Data Science Projects](https://github.com/vanity-lost/Data-Science)
@@ -51,80 +53,50 @@ _Containing my personal portfolio of data science projects for academic or self 
 
 ### [My academic Projects](https://github.com/vanity-lost/academic_projects)
 
-_Organized by Courses_
-
 - Only contains part of my academic projects (Complete List: https://github.com/vanity-lost/academic_projects)
 
 <table>
     <thead>
         <tr>
-            <th>Courses Name</th>
             <th>Project Description</th>
             <th>Keywords</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20133%20Projects">Intro Data Science Engineering Major</a></td>
-            <td>FIFA Player Value Prediction</td>
+            <td><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20133%20Projects">FIFA Player Value Prediction</a></td>
             <td><em>Python, Sklearn, Exploratory Data Analysis, Gradient Boosting Regression</em></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20234%20Projects">Structured and Unstructured Data</a></td>
-            <td>Amazon Co-purchasing Analysis</td>
+            <td><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20234%20Projects">Amazon Co-purchasing Analysis</a></td>
             <td><em>Python, Recommendation System, Unstructured Data, Logistic Regression</em></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20395%20Projects">Senior Project in Computer Science</a></td>
-            <td>Meeting Assistant Software: Argus (Text2Mindmap part)</td>
+            <td><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20395%20Projects">Text2Mindmap</a></td>
             <td><em>Python, Extractive Text Summarization, TextRank, RoBERTa, YAKE!</em></td>
         </tr>
-        <tr>
-            <td rowspan=4><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20440">Machine Learning</a></td>
-            <td>Decistion Tree</td>
-            <td><em>Python, Decision Tree</em></td>
-        </tr>
-        <tr>
-            <td>Logistic Regression & Naive Bayes</td>
-            <td><em>Python, Logistic Regression, Naive Bayes</em></td>
-        </tr>
-        <tr>
-            <td>Boosting algorithm based on decistion tree, logistic regression, and naive bayes</td>
-            <td><em>Python, Adaboost, Decistion Tree, Logistic Regression, Naive Bayes</em></td>
-        </tr>
-        <tr>
-            <td>Transfer Learning with Naive Bayes (my part)</td>
-            <td><em>Python, Transfer Learning, Naive Bayes</em></td>
-        </tr>
-        <tr>
-            <td rowspan=5><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20491">Artificial Intelligence: Probabilistic Graphical Models</a></td>
-            <td>Inference Problem</td>
-            <td><em>Python, Beta-Geometric Inference, Normal-normal Inference</em></td>
-        </tr>
-        <tr>
-            <td>Bayesian Belief Network</td>
-            <td><em>Python, Bayesian Belief Networks, Disease Diagnostic, Heart Disease</em></td>
-        </tr>
-        <tr>
-            <td>Image Segmentation with Markove Random Field (MRF) and Naive Bayes</td>
-            <td><em>Python, OpenCV, Markov Random Field (MRF), Image Denoising, Image Segmentation</em></td>
-        </tr>
-        <tr>
-            <td>Text summarization with Gaussian Mixture Model (GMM)</td>
-            <td><em>Python, Sklearn, Gaussian Mixture Model, K-Means, Extractive Text Summarization</em></td>
-        </tr>
-        <tr>
-            <td>Cryptocurrency Prices Forecasting using Hidden Markov Models (HMMs) and Long-Short Term Memory (LSTM)</td>
+            <td><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20491">Cryptocurrency Prices Forecasting using HMM and LSTM</a></td>
             <td><em>Python, Price Forecasting, LSTM, HMM</em></td>
         </tr>
         <tr>
-            <td rowspan=2><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/DESN%20210%20Projects">Intro to Programming for Business Applications</a></td>
-            <td>Style Transfer</td>
+            <td><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/DESN%20210%20Projects">Style Transfer</a></td>
             <td><em>Python, Tensorflow, Style Transfer</em></td>
         </tr>
         <tr>
-            <td>Cryptocurrency Prices Forecasting using U.S. stock, COVID-19, and crypto market</td>
+            <td><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/DESN%20210%20Projects">Cryptocurrency Prices Forecasting using U.S. stock, COVID-19, and crypto market</a></td>
             <td><em>Python, LSTM, Price Forecasting</em></td>
+        </tr>
+        <tr>
+            <td><a href="None">Gasoline Price Forecasting (private until the end of semester)</a></td>
+            <td><em>Python, Pytorch, LSTM, time series</em></td>
+        </tr>
+        <tr>
+            <td><a href="None">Evaluating Language Learning (private until the end of semester)</a></td>
+            <td><em>Python, semi-surpervised, Support Vector Regression, NLP, embedding</em></td>
+        </tr>
+        <tr>
+            <td><a href="None">Node Injection via Fake Duplicate</a></td>
+            <td><em>Python, node classification, reinforcement learning, attacking algorithm</em></td>
         </tr>
     </tbody>
 </table>
