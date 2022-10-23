@@ -21,11 +21,15 @@ Yulin Zhao, randolph.zhao.49@gmail.com, _last updated by 10/22/2022_
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://www.springerprofessional.de/en/robotutor-predictions-of-students-answer-type/20026568">[Published Paper] RoboTutor: Predictions of Students' Answer Type</a></td>
+            <td><a href="https://github.com/vanity-lost/Data-Science/tree/main/Algorithms%20Study/Decision%20Tree%20and%20its%20variants">Decision Tree and its variants</a></td>
+            <td><em>Python, XGBoost, LightGBM, CatBoost</em></td>
+        </tr>
+        <tr>
+            <td>[Published Paper] <a href="https://www.springerprofessional.de/en/robotutor-predictions-of-students-answer-type/20026568">RoboTutor: Predictions of Students' Answer Type</a></td>
             <td><em>RoboTutor, NLP, Logistic Regression</em></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20433%20Projects">[Survey Paper] Distributed Classification based on ADMM</a></td>
+            <td>[Survey Paper] <a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20433%20Projects">Distributed Classification based on ADMM</a></td>
             <td><em>ADMM, A2DM2, ASVRG-ADMM, CS-GADMM, D-A2DM2, SDCA-ADMM, SVRG-ADMM</em></td>
         </tr>
         <tr>
@@ -78,6 +82,10 @@ Yulin Zhao, randolph.zhao.49@gmail.com, _last updated by 10/22/2022_
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td><a href="https://github.com/vanity-lost/Kmeans-GMM">Kmeans and GMM</a></td>
+            <td><em>Python, Kmeans, Gaussian Mixture Model</em></td>
+        </tr>
     </tbody>
 </table>
 
@@ -97,6 +105,14 @@ Yulin Zhao, randolph.zhao.49@gmail.com, _last updated by 10/22/2022_
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td><a href="https://github.com/vanity-lost/Frequent-Pattern-Mining">Apriori and PrefixSpan</a></td>
+            <td><em>Python, Apriori, PrefixSpan</em></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20234%20Projects">Amazon Co-purchasing Prediction</a></td>
+            <td><em>Python, Recommendation System, Unstructured Data, Logistic Regression</em></td>
+        </tr>
     </tbody>
 </table>
 
@@ -147,16 +163,24 @@ Yulin Zhao, randolph.zhao.49@gmail.com, _last updated by 10/22/2022_
         </tr>
     </thead>
         <tr>
-            <td><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20234%20Projects">Amazon Co-purchasing Analysis</a></td>
-            <td><em>Python, Recommendation System, Unstructured Data, Logistic Regression</em></td>
-        </tr>
-        <tr>
             <td><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/CSDS%20395%20Projects">Text2Mindmap</a></td>
-            <td><em>Python, NLP, Extractive Text Summarization, TextRank, RoBERTa, YAKE!</em></td>
+            <td><em>NLP, Extractive Text Summarization, Python, TextRank, RoBERTa, YAKE!</em></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/DESN%20210%20Projects">Style Transfer</a></td>
-            <td><em>Python, Image, Tensorflow, Style Transfer</em></td>
+            <td><a href="https://github.com/vanity-lost/academic_projects/tree/main/CWRU/DESN%20210%20Projects">Image Style Transfer</a></td>
+            <td><em>Image Feature Learning, Python, Tensorflow,</em></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/vanity-lost/Bike-Sharing-Analysis">Bike Sharing Analysis</a></td>
+            <td><em>Data Visualization, Python</em></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/vanity-lost/Data-Science/tree/main/Algorithms%20Study/Anomaly%20Detection">Isolation Forest, Local Outlier Factor, one-class SVM</a></td>
+            <td><em>Anomaly Detection, Python</em></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/vanity-lost/Data-Science/tree/main/Algorithms%20Study/Dimension%20Reduction">PCA and t-SNE</a></td>
+            <td><em>Dimension Reduction, Python</em></td>
         </tr>
     <tbody>
     </tbody>
